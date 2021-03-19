@@ -18,6 +18,32 @@ Week of Monday 2/22/21 to Sunday 3/5/21 ~20~25 hours
 •	Communicated with supervisor about the current progress, informed about the progress for the frontend of the project, also informed about the different learning meterials being used such as coursera,youtube, etc.informed on (3/5/2020).  
 
 
+Week of Saturday 03/6/21 to Friday 03/19/21~ 32 hours
+• Still working on FrontEnd and trying to work with php as well, Available website like Amazon and Alibaba.com have been checked and observed on how they function and look.~ 80% percent complete
+• Watched PHP tutorial on creating login pages, researched the different methodologies of creating one.
+• The login and registration for user has been developed.
+• Different pages for development have been added.
+• Feature ~ Adding a new product into system page has been developed.
+• Database has been created using MySql Queries.
+• Had some issues with Xampp server some pages weren’t loading, discovered that I was running the php pages from OneDrive directory, realized that I initially supposed to run it on the c/ drive from the htdocs folder from within the XAmpp Server page (Local Host). I had to read an article for the fixing of this issue. Xampp help forms was very helpful in this case.
+• Worked on the literature review – researched top Ecommerce websites and wrote a report on what they do and why they are so successful with their ecommerce systems and websites, highlighted functionalities of each of them. See attached literature review, also available on my Gitub 4900 project page.
+• Found a book called PHP Notes for Professionals, after starting the actual process I saw that maybe before continuing this project, I should spend more time gathering information and making sure I'm more familiar with different syntax and documentation so I'm not spending as much time googling all the errors.
+• Reported, discussed changes and project progress to supervisor on 3/18/2021.
+• Working on /and drafting interim report which will be due April 9th , panning to make/ send another update to supervisor before the interim report deadline .
+• Will start the backend process after interim report has been submitted and confirmed with supervisor.
+• Some Product / php pages has been added / committed to my github repository, will be adding more as i revise them/ complete them.
+
+Front End Progress/Status – Pages Added -
+
+1. Index Page ~ 85 % complete
+2. Add Product page ~70 % complete.
+3. Category Page ~ 80 % complete
+4. Login page ~ 75 % complete
+5. Contact-us page ~ 90 percent complete
+6. About us page – complete/revising
+7. Overall Progress of frontend ~80-85% complete
+
+
 
 
 
