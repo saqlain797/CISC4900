@@ -44,6 +44,29 @@ Front End Progress/Status – Pages Added -
 7. Overall Progress of frontend ~80-85% complete
 
 
+Week of Monday 03/20/21 to Sunday 04/04/21 ~ 28 hours
+•	Literature reviews has been done. 
+•	Received feedback from supervisor encouraging project management and its importance discussed with supervisor received OK. 
+•	Development strategies has also been checked in detail and described in detail that how it will get implemented in this project and how this can improve the development structure of the website. It has also demonstrated the pros and cons of different development strategies.
+•	Started creating Class Diagrams, Sequence diagrams and Database diagrams has been developed. Followed along https://www.youtube.com/watch?v=ztHopE5Wnpc ~5hrs
+•	Database has been created using MySQL Queries. ~10hrs  also followed https://www.youtube.com/watch?v=HXV3zeQKqGY for better understanding of SELECT statements syntax. 
+•	Added Source code of the some different pages of the website on my GitHub( https://github.com/saqlain797/CISC4900.git) 
+•	Different pages have been added on the website and the admin panel have been added which is required and important for the administrative of the system. 
+•	Preparing and submission of the interim report to supervisor for evaluations and 4900 websites.  
+
+Front End Progress/Status (Design) – Pages Created/coded – Update(4/6/2021)
+1.	Index Page ~ 90 % complete
+2.	Add Product page ~80 % complete.UPDATE - search option  has been added to search the products with in the site by different users.
+3.	Category Page ~ 80 % complete
+4.	Login page ~ 80 % complete – Users can now create their own accounts within the site.
+5.	Contact-us page ~ 90 percent complete
+6.	About us page – complete/revising
+7.	Overall Progress of frontend ~85-90% complete
+8.	Literature reviews has been done Researched 2 most popular Ecommerce systems, Amazon, and Alibaba, shopify looked at their pros and cons and wrote a report.
+
+
+
+
 
 
 
