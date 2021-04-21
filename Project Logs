@@ -65,6 +65,27 @@ Front End Progress/Status (Design) – Pages Created/coded – Update(4/6/2021)
 8.	Literature reviews has been done Researched 2 most popular Ecommerce systems, Amazon, and Alibaba, shopify looked at their pros and cons and wrote a report.
 
 
+Week of Friday 04/09/21 to Wednesday 04/21/21 – 20 hours
+•	Website has been developed and almost in test phase, continued the php devepopment tutorial videos(following along key concepts similar to  my system).  
+•	Writing some sections of report in details to explain the project deeply.
+•	All the required diagrams related to report has been done and Figure details to be added.
+•	Trying to improve the Interfaces of the website. Checking important features such as the add to cart button/ database connection.
+•	Discussed with supervisor about final report and some test cases that’s needs to be meet, will be send a demo of website before the final report, with all functionalities in action(in a short video clip).
+
+
+Project Key Parameters	Comments
+Index Page	: Complete 	  :The project is 75% complete. Website has been developed and almost in test phase
+Add Product page	On-Track :	All the required diagrams related to report has been done and Figure details to be added
+Scope	On-Track 	All ok.
+Login page	Complete	:Database created using sql queries to store cart information, user information, and login information.
+About us page	On-Track :	Still adding some information for display purposes.
+Issues	On-Track :	No major issues. Trying to improve the Interfaces of the website mostly the UI,noticed a few bugs causing the add to card button to not be displayed during the checkout process.
+Issues ficed using an online article(debugging js file script code).
+
+
+
+
+
 
 
 
