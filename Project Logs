@@ -80,7 +80,7 @@ Scope	On-Track 	All ok.
 Login page	Complete	:Database created using sql queries to store cart information, user information, and login information.
 About us page	On-Track :	Still adding some information for display purposes.
 Issues	On-Track :	No major issues. Trying to improve the Interfaces of the website mostly the UI,noticed a few bugs causing the add to card button to not be displayed during the checkout process.
-Issues ficed using an online article(debugging js file script code).
+Bug resolved using an online article(debugging js file script code).
 
 
 
