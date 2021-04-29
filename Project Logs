@@ -84,6 +84,23 @@ Bug resolved using an online article(debugging js file script code).
 
 
 
+Week of Wednesday 04/21/21 to Thursday 04/29/21 – 15 hours 
+The website has been developed and currently in the test phase, with minor bugs and grammar/style of the website still in progress and need to be improved.   
+Still Writing some sections of the report in detail to explain the project deeply, Created DEMO video, will add it to my GitHub soon and all the required project files/source code. 
+All the required diagrams related to reporting have been done and Figure details to be added. 
+Trying to improve the Interfaces of the website , bug discovered on the admin panel(should be on track to fix it before final report.  
+Added JavaScript files to my GitHub which includes jQuery files and the CSS files(implemented using Bootstrap). 
+
+As far as the project progress, currently looking over all the documentations, bugs(product Insert page(admin)), and trying my best to improve the UI of the website, worked on the Demo over the weekend to show the main functionalities of the website with comments and annotations on the DEMO clip for better understanding of the system.
+ 
+Project Key Parameters:   Comments: 
+Index Page :   Complete /Demo shown to supervisor for feedback/thoughts .The project is 80% complete. The website has been developed and is in the test phase 
+Add Product page / Final functionality details  On-Track /Demo shown .All the required diagrams related to reporting has been done and Figure details to be added 
+Scope -On-Track -All ok.  On track for final report/deliverables. 
+Login page :Complete /demo shown :Database created using SQL queries to store cart information, user information, and login information. 
+About us page :On-Track /demo shown: Still adding some information for display purposes. 
+Issues :On-Track No major issues. Trying to improve the Interfaces of the website and the insert product page needs bug fixing - on track to finish on time. 
+
 
 
 
