@@ -139,7 +139,7 @@ if ($num > 0) {
 
                                                         <div class="product-price">
                                                             <span class="price">
-                                                            £ <?php echo htmlentities($row['productPrice']); ?>
+                                                            $ <?php echo htmlentities($row['productPrice']); ?>
                                                             </span>
                                                            
 

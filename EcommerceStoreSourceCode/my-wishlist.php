@@ -86,7 +86,7 @@ $ret = mysqli_query($con, "select products.productName as pname,products.product
                                             <div class="product-name"><a
                                                     href="product-details.php?pid=<?php echo htmlentities($pd = $row['pid']); ?>"><?php echo htmlentities($row['pname']); ?></a>
                                             </div>
-                                            <div class="price">£
+                                            <div class="price">$
                                                 <?php echo htmlentities($row['pprice']); ?>.00
                                                 
                                             </div>

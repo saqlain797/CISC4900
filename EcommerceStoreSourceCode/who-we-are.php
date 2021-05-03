@@ -39,7 +39,7 @@ include 'includes/config.php';
     <div class="row h-100 align-items-center py-5">
       <div class="col-lg-6">
         <h1 class="display-4">Who we are?</h1>
-        <p class="lead text-muted mb-0">We are selling different products you can search of your choice.</p>
+        <p class="lead text-muted mb-0">We bring a dynamic Ecommerce System where you can buy and sell your products.</p>
         <p class="lead text-muted">Here you can <a href="contact-us.php" class="text-muted"> 
                     <u>Conctact Us</u></a>
         </p>
@@ -55,8 +55,8 @@ include 'includes/config.php';
   <div class="container py-5">
     <div class="row align-items-center mb-5">
       <div class="col-lg-6 order-2 order-lg-1"><i class="fa fa-bar-chart fa-2x mb-3 text-primary"></i>
-        <h2 class="font-weight-light">Sale Your Product</h2>
-        <p class="font-italic text-muted mb-4">Here you can sale your products which mostly related to different categories. These are general or house hold product or any kind of product.</p><a href="#" class="btn btn-light px-5 rounded-pill shadow-sm">Learn More</a>
+        <h2 class="font-weight-light">Sell Your Product</h2>
+        <p class="font-italic text-muted mb-4">Here you can sell your products which can be related to different categories. These could be household products or any kind of product.</p><a href="#" class="btn btn-light px-5 rounded-pill shadow-sm">Learn More</a>
       </div>
       <div class="col-lg-5 px-5 mx-auto order-1 order-lg-2"><img src="https://res.cloudinary.com/mhmd/image/upload/v1556834139/img-1_e25nvh.jpg" alt="" class="img-fluid mb-4 mb-lg-0"></div>
     </div>
@@ -64,7 +64,7 @@ include 'includes/config.php';
       <div class="col-lg-5 px-5 mx-auto"><img src="https://res.cloudinary.com/mhmd/image/upload/v1556834136/img-2_vdgqgn.jpg" alt="" class="img-fluid mb-4 mb-lg-0"></div>
       <div class="col-lg-6"><i class="fa fa-leaf fa-2x mb-3 text-primary"></i>
         <h2 class="font-weight-light">Buy Products</h2>
-        <p class="font-italic text-muted mb-4">Here you can sale your products which mostly related to different categories. These are general or house hold product or any kind of product.</p><a href="#" class="btn btn-light px-5 rounded-pill shadow-sm">Learn More</a>
+        <p class="font-italic text-muted mb-4">Here you can buy products,save them to your wishlist, and also track them all within the same place.</p><a href="#" class="btn btn-light px-5 rounded-pill shadow-sm">Learn More</a>
       </div>
     </div>
   </div>

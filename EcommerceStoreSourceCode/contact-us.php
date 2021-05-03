@@ -113,10 +113,10 @@ include 'includes/config.php';
             <div class="card bg-light mb-3">
                 <div class="card-header bg-success text-white text-uppercase"><i class="fa fa-home"></i> Address</div>
                 <div class="card-body">
-                    <p>C3J9+25 Birmingham</p>
-                    <p>United Kingdom</p>
+                    <p>+1 New York City</p>
+                    <p>United States</p>
                     <p>Email : email@example.com</p>
-                    <p>Tel. +44 1632 123456</p>
+                    <p>Phone: +15555555555</p>
 
                 </div>
 

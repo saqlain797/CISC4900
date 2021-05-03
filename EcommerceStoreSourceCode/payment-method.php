@@ -82,6 +82,7 @@ else{
     	<h4 class="unicase-checkout-title">
 	        <a data-toggle="collapse" class="" data-parent="#accordion" href="#collapseOne">
 	         Select your Payment Method
+			 We also Accept Crypto !
 	        </a>
 	     </h4>
     </div>
@@ -92,8 +93,8 @@ else{
 		<!-- panel-body  -->
 	    <div class="panel-body">
 	    <form name="payment" method="post">
-	    <input type="radio" name="paymethod" value="COD" checked="checked"> COD
-	     <input type="radio" name="paymethod" value="Internet Banking"> Internet Banking
+	    <input type="radio" name="paymethod" value="COD" checked="checked"> Bitcoin/Ethereum
+	     <input type="radio" name="paymethod" value="Internet Banking"> Paypal
 	     <input type="radio" name="paymethod" value="Debit / Credit card"> Debit / Credit card <br /><br />
 	     <input type="submit" value="submit" name="submit" class="btn btn-primary">
 	    	
